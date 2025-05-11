@@ -13,9 +13,9 @@
 #
 
 <p align="center">
-  Estudante de Engenharia de Softwares.  
-  Curioso por natureza, estou sempre em busca de novos conhecimentos e desafios.  
-  Atualmente estudo Banco de Dados, Sistemas Operacionais, Arquitetura de Computadores e Linguagens de Máquina.
+  
+Atualmente, estou cursando Engenharia de Software, onde estou adquirindo uma base sólida em programação, estruturas de dados, algoritmos e desenvolvimento de software. Tenho conhecimentos iniciais em diversas linguagens de programação, como JavaScript e Python, e estou sempre em busca de aprimorar minhas habilidades e aprender novas tecnologias para me tornar um profissional qualificado na área.
+  
 </p>
 
 #
@@ -39,10 +39,9 @@
 <div align="center">
   <h3>* Estatísticas do GitHub *</h3>
   <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Heitor923&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=00FFAA&text_color=FFF&border_radius=3&border_color=005F47&icon_color=00FFAA&theme=jolly" alt="GitHub stats">
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Heitor923&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br&bg_color=000&title_color=00FF00&text_color=FFF&border_radius=3&border_color=005F47" alt="GitHub stats">
   <a href="https://github.com/Heitor923/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Heitor923&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=00FFAA&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=005F47" alt="Linguagens mais usadas">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heitor923&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=00FF00&bg_color=000&text_color=FFF&border_radius=3&border_color=005F47&locale=pt-br" alt="Linguagens mais usadas">
   </a>
 </div>
 
@@ -57,5 +56,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
+
+
 
 </p>
