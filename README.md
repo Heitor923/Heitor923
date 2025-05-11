@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=https://github.com/user-attachments/assets/bcb44156-7ac1-4f97-b451-590cccc1ffc5 />
+  <img src="https://github.com/user-attachments/assets/bcb44156-7ac1-4f97-b451-590cccc1ffc5" />
 </p>
 
 <div align="left">
@@ -37,9 +37,9 @@
 <div align="center">
   <h3>📊 Estatísticas do GitHub</h3>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Heitor923&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br&bg_color=000&title_color=00FF00&text_color=FFF&border_radius=3&border_color=005F47&v=1" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Heitor923&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br&bg_color=000&title_color=00FF00&text_color=FFF&border_radius=3&border_color=005F47&cache_bust=1" alt="GitHub stats" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heitor923&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=00FF00&bg_color=000&text_color=FFF&border_radius=3&border_color=005F47&locale=pt-br&v=1" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heitor923&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=00FF00&bg_color=000&text_color=FFF&border_radius=3&border_color=005F47&locale=pt-br&cache_bust=1" alt="Linguagens mais usadas" />
 </div>
 
 #
@@ -49,4 +49,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg" />
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg" />
 </picture>
-
