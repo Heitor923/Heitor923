@@ -39,7 +39,7 @@ Atualmente, estou cursando Engenharia de Software, onde estou adquirindo uma bas
 #
 
 <div align="center">
-  <h3>* Estatísticas do GitHub *</h3>
+  <h3>#Estatísticas do GitHub#</h3>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=Heitor923&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br&bg_color=000&title_color=00FF00&text_color=FFF&border_radius=3&border_color=005F47" alt="GitHub stats">
   <a href="https://github.com/Heitor923/github-readme-stats">
