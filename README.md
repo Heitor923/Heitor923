@@ -13,7 +13,10 @@
 #
 
 <p align="center">
-  Atualmente, estou cursando Engenharia de Software, onde estou adquirindo uma base sólida em programação, estruturas de dados, algoritmos e desenvolvimento de software. Tenho conhecimentos iniciais em diversas linguagens de programação, como JavaScript e Python, e estou sempre em busca de aprimorar minhas habilidades e aprender novas tecnologias para me tornar um profissional qualificado na área.
+ Sou estudante de Engenharia de Software com foco em desenvolvimento backend em Java.
+Tenho base sólida em Programação Orientada a Objetos, lógica de programação, Git/GitHub e banco de dados com SQL.
+
+Atualmente, estou aprofundando meus estudos em Spring Boot e boas práticas de desenvolvimento, buscando minha primeira oportunidade na área de tecnologia para crescer profissionalmente e contribuir com soluções bem estruturadas.
 </p>
 
 #
