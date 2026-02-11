@@ -1,57 +1,85 @@
+<!-- HEADER JAVA -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bcb44156-7ac1-4f97-b451-590cccc1ffc5" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F89820,100:5382A1&height=180&section=header&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<div align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=fira+code&pause=1000&color=31F700&width=435&lines=Ol%C3%A1%2C+Eu+sou+o+Heitor+Costa" alt="Typing SVG" />
-  </a>
-</div>
-
-<img align="center" alt="Header GIF" src="./src/header-gif.gif">
-
-#
-
+<!-- TYPING -->
 <p align="center">
- Sou estudante de Engenharia de Software com foco em desenvolvimento backend em Java.
-Tenho base sólida em Programação Orientada a Objetos, lógica de programação, Git/GitHub e banco de dados com SQL.
-
-Atualmente, estou aprofundando meus estudos em Spring Boot e boas práticas de desenvolvimento, buscando minha primeira oportunidade na área de tecnologia para crescer profissionalmente e contribuir com soluções bem estruturadas.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=F89820&width=520&lines=Olá,+eu+sou+o+Heitor;Engenharia+de+Software;Backend+Java;Spring+Boot+%7C+SQL+%7C+POO" />
 </p>
 
 #
 
-<img align="right" alt="study gif" height="190px" src="./src/study.gif" />
-
-<h3 align="left">Contatos:</h3>
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00FFAA&color=000)](https://www.linkedin.com/in/heitor-costa000)
-
-<h3 align="left">Minha Stack:</h3>
-
-<div align="left">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="60"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-
-          
-</div>
+<!-- SOBRE -->
+<p align="center">
+  🎓 Estudante de <strong>Engenharia de Software</strong> com foco em <strong>desenvolvimento backend em Java</strong>.
+  <br><br>
+  💡 Base sólida em <strong>POO</strong>, <strong>lógica de programação</strong>, <strong>Git/GitHub</strong> e <strong>banco de dados SQL</strong>.
+  <br><br>
+  🚀 Atualmente aprofundando estudos em <strong>Spring Boot</strong>, arquitetura limpa e boas práticas,
+  buscando minha <strong>primeira oportunidade na área de tecnologia</strong>.
+</p>
 
 #
 
-<div align="center">
-  <h3>📊 Estatísticas do GitHub</h3>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Heitor923&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br&bg_color=000&title_color=00FF00&text_color=FFF&border_radius=3&border_color=005F47&cache_bust=1" alt="GitHub stats" />
+<!-- CONTATOS -->
+<h3 align="left">📫 Contato</h3>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heitor923&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=00FF00&bg_color=000&text_color=FFF&border_radius=3&border_color=005F47&locale=pt-br&cache_bust=1" alt="Linguagens mais usadas" />
-</div>
+<a href="https://www.linkedin.com/in/heitor-costa000">
+  <img src="https://img.shields.io/badge/LinkedIn-5382A1?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
 #
 
-<picture align="center">
+<!-- STACK -->
+<h3 align="left">☕ Stack Principal</h3>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
+</p>
+
+<h3 align="left">🧰 Outras Tecnologias</h3>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+</p>
+
+#
+
+<!-- ESTATÍSTICAS -->
+<p align="center">
+  <strong>📊 Estatísticas do GitHub</strong>
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Heitor923&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Heitor923&theme=github_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Heitor923&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Heitor923&theme=dark&ring=F89820&fire=F89820&currStreakLabel=5382A1" />
+</p>
+
+#
+
+<!-- VISITAS -->
+<p align="center">
+  <img src="https://visit-counter.vercel.app/counter.png?page=Heitor923&color=F89820" />
+</p>
+
+#
+
+<!-- SNAKE -->
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg" />
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg" />
 </picture>
