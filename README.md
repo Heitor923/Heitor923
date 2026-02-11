@@ -30,10 +30,11 @@ Atualmente, estou aprofundando meus estudos em Spring Boot e boas práticas de d
 <h3 align="left">Minha Stack:</h3>
 
 <div align="left">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="60"/>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="60"/>
           
 </div>
 
